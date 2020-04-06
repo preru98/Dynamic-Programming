@@ -1,7 +1,7 @@
 /*
 
 Problem  : Given an amount, find the minimum number of coins required to make the exact amount of change. 
-Solution : Dynamic Programming
+Solution : Dynamic Programming : Top Down Approach 
 
 */
 
